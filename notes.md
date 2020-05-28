@@ -15,3 +15,21 @@ I then plotted the years.
 Next I tried a bit of my own experimentation. I opened the cvs file in Open Refine again. I spet a significant amount of time looking at the keywords. I sifted through all the options and clustered them how I see fit (exerting agency as per Week 3 readings). I then plotted the number of articles by keyword to find that a significant amount of the letters were talking about Native American Peoples.
 
 ![image i just uploaded](Rplot5.png)
+
+## Reasing Notes
+
+- digital reading involves more than jsut words on a page
+
+- includes sounds, objects, space
+
+- how do we identify new things to study rather than imposing new methods on older studies?
+
+- combining the text and non-text
+
+- gives context to the history
+
+- close and distant reading = microscope and macroscope
+
+- making the past available for 'scientific purposes'
+
+- Remember: we don't already know the results of the work
