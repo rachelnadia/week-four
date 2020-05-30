@@ -28,6 +28,16 @@ The term "south" appears way more frequently in the later articles. This could s
 
 At this point I am still working on building my own corpus to examine in Voyant.
 
+## AntConc
+
+While I understand the basics on AntConc I found it a little difficult to use. I feel like the most useful aspect - or at least the most interesting one to me - of this tool is comparing it to a more general metafile. I would have liked to do this but I was unsure of what to use for that file and where to find such a thing.
+
+## Jupyter
+
+I followed along with the tutorial in Jupyter with much ease. I thought the tool was very easy to use and quite efficient.
+
+![image i just uploaded](Jupyter1.png)
+
 ## Reading Notes
 
 - digital reading involves more than jsut words on a page
