@@ -38,6 +38,14 @@ I followed along with the tutorial in Jupyter with much ease. I thought the tool
 
 ![image i just uploaded](Jupyter1.png)
 
+## Imj
+
+I followed the tutorial for this week's bonus in imj. Although I was able to sucessfully complete the tutorial, I do not uderstand how to read the output. This is something that I am going to look into before next week.
+
+![image i just uploaded](barcode.png)
+
+![image i just uploaded](montage.png)
+
 ## Reading Notes
 
 - digital reading involves more than jsut words on a page
