@@ -16,7 +16,13 @@ Next I tried a bit of my own experimentation. I opened the cvs file in Open Refi
 
 ![image i just uploaded](Rplot5.png)
 
-## Reasing Notes
+### Voyant
+
+Based on the word images in Voyant, it suggests that the British may have been trying to consolidate their colonies into making them like the British.
+
+![image i just uploaded](Voyant.png)
+
+## Reading Notes
 
 - digital reading involves more than jsut words on a page
 
