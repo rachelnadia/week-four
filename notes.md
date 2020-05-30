@@ -26,6 +26,8 @@ The term "south" appears way more frequently in the later articles. This could s
 
 ![image i just uploaded](Voyant01.png)
 
+At this point I am still working on building my own corpus to examine in Voyant.
+
 ## Reading Notes
 
 - digital reading involves more than jsut words on a page
