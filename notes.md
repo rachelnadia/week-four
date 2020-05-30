@@ -22,6 +22,10 @@ Based on the word images in Voyant, it suggests that the British may have been t
 
 ![image i just uploaded](Voyant.png)
 
+The term "south" appears way more frequently in the later articles. This could suggest that after the period of colonization, the hierarchy of believed superiority of government became more apparent.
+
+![image i just uploaded](Voyant01.png)
+
 ## Reading Notes
 
 - digital reading involves more than jsut words on a page
