@@ -48,7 +48,7 @@ I followed the tutorial for this week's bonus in imj. Although I was able to suc
 
 ## Reading Notes
 
-- digital reading involves more than jsut words on a page
+- digital reading involves more than just words on a page
 
 - includes sounds, objects, space
 
